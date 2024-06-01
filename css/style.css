@@ -1150,3 +1150,11 @@ html {
     background: white;
     z-index: 999;
 }
+
+@media only screen and (max-width: 768px) {
+
+
+    .preheader-wrapper {
+        display: none;
+    }
+}
